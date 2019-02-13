@@ -1,0 +1,43 @@
+
+body{
+    margin: 0 auto;
+    background-color: #990909;
+}
+
+.header {
+    text-align: center;
+    margin-top: 24px;
+}
+.navigation {
+    background-color: black;
+    color: white;
+    text-align:center;
+}
+.navigation__item{
+    display: inline-block;
+}
+.menu{
+    background-color: #7D0909;
+    float: left;
+    width: 160px;
+    height: 365px;
+}
+a {
+    color: #e5590a
+}
+.content{
+    margin: 0 auto;
+}
+h1 {
+    color: white;
+    font-size: 15px;
+}
+.news {
+    background-color: white;
+    float:right;
+    width: 160px;
+    height: 365px;
+}
+.footer{
+
+}
