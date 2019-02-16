@@ -39,5 +39,8 @@ h1 {
     height: 365px;
 }
 .footer{
-
+    clear: both;
+    background-color: #e5590a;
+    color: white;
+    text-align: center;
 }
