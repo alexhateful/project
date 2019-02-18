@@ -1,0 +1,102 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  body{
+      /* background-image: url(bg.png); */
+      margin: 0;
+      background-color: #3399CC;
+      border: 24px solid #2B81AC;
+      font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+      color: white;
+    
+    }
+
+    h2{
+        margin-left: 218px;
+        margin-top: 36px;
+        font-size: 1.9em;
+    }
+    main{
+
+
+    }
+    .cities{
+        
+        
+    }
+
+
+    .cities li{
+        display: inline-block;
+        /* border: 6px solid white; */
+        text-align: center;
+    }
+    .Lisbon{
+        width: 50%;
+        height: 150px;
+        background-color: #3399CC;
+        border: 3px solid white;
+        
+    }
+    .Paris{
+        width: 25%;
+        height: 150px;
+        background-color: #33CCCC;
+        border: 3px solid white;
+    }
+    .Belgrade{
+        width: 25%;
+        height: 150px;
+        background-color: #996699;
+        border: 3px solid white;
+    }
+    .Moscow{
+        width: 25%;
+        height: 150px;
+        background-color: #C24747;
+        border: 3px solid white;
+    }
+    .TelAviv{
+        width: 25%;
+        height: 150px;
+        background-color: #E2674A;
+        border: 3px solid white;
+    }
+    .Cair{
+        width: 25%;
+        height: 150px;
+        background-color: #FFCC66;
+        border: 3px solid white;
+    }
+    .NewYork{
+        width: 25%;
+        height: 150px;
+        background-color: #99CC99;
+        border: 3px solid white;
+    }
+    .NewDelhi{
+        width: 25%;
+        height: 150px;
+        background-color: #669999;
+        border: 3px solid white;
+    }
+    .SanFrancisco{
+        width: 50%;
+        height: 150px;
+        background-color: #CC6699;
+        border: 3px solid white;
+    }
+    .Tokyo{
+        width: 25%;
+        height: 150px;
+        background-color: #339966;
+        border: 3px solid white;
+    }
+    .Sydney{
+        width: 100%;
+        height: 150px;
+        background-color: #666699;
+        border: 3px solid white;
+    }
